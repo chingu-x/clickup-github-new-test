@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Report date**
+Date when posting a report
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -26,8 +29,19 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
+***----------------------- End of Tester Report -------------------------***
+
 **Team Task**
 Here will be added Team declaration by Team Leads.
+
+**Development start date**
+Date when dev team start fixing a bug
+
+**Development end date**
+Date when dev team complete fixing a bug
+
+**BugFix Deploy Date**
+Date when BugFix is deployed, and Bug Issue is closed
 
 **PO Comment**
 Here will be PO team add a comment.
