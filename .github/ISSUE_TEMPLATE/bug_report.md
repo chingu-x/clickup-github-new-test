@@ -29,7 +29,7 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
-***----------------------- End of Tester Report -------------------------***
+***--------------- End of User Report: DO NOT MODIFY ITEMS BELOW THIS LINE ---------------***
 
 **Team Task**
 Here will be added Team declaration by Team Leads.
